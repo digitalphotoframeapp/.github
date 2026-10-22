@@ -1,3 +1,5 @@
+<img src="icon.png" alt="Digital Photo Frame App app icon" width="120" height="120" />
+
 # Digital Photo Frame App
 
 **Turn your iPad, iPhone, Mac or Apple TV into a digital photo frame.** Play slideshows from your photo library, iCloud shared albums and Google Photos, with music.
